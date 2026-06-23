@@ -6,7 +6,7 @@ Sistema integral de gestión y punto de venta para una carnicería, desarrollado
 
 ## Características Principales
 
-- **Autenticación de Usuarios**: Sistema de login y registro seguro
+- **Autenticación de Usuarios**: Sistema de login y registro de usuarios
 - **Gestión de Productos**: Registro, edición y eliminación de productos con imágenes
 - **Inventario**: Control de almacén con alertas de stock bajo
 - **Clientes**: Base de datos de clientes y registro de compras
@@ -38,7 +38,7 @@ reportlab>=3.6.0   # Generación de reportes PDF
 ### 1. Clonar o descargar el proyecto
 
 ```bash
-git clone https://github.com/tu-usuario/Punto-Venta-Carniceria-Python-Tkinter.git
+git clone https://github.com/marcos85-cr/Punto-Venta-Carniceria-Python-Tkinter.git
 cd Punto-Venta-Carniceria-Python-Tkinter
 ```
 
@@ -143,10 +143,6 @@ Las contribuciones son bienvenidas. Para cambios importantes:
 3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
 4. Push a la rama (`git push origin feature/AmazingFeature`)
 5. Abre un Pull Request
-
-## Licencia
-
-Este proyecto está bajo la licencia MIT. Ver el archivo `LICENSE` para más detalles.
 
 ## Autor
 

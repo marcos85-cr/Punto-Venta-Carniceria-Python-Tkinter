@@ -39,10 +39,11 @@ Thumbs.db
 *.sublime-project
 *.sublime-workspace
 
-# Archivos de base de datos (opcional, descomenta si no quieres subir las BD)
-# *.db
-# *.sqlite
-# *.sqlite3
+# Archivos de base de datos
+*.db
+*.sqlite
+*.sqlite3
+.DS_Store
 
 # Archivos generados por la aplicación
 cierres_caja/*.pdf
@@ -50,6 +51,9 @@ facturas/*.pdf
 informes/*.xlsx
 informes/*.pdf
 informes/*.csv
+CARNICERIA/facturas/
+CARNICERIA/cierres_caja/
+CARNICERIA/informes/
 
 # Archivos de log
 *.log
