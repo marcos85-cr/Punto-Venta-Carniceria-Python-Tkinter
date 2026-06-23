@@ -52,7 +52,8 @@ class Informacion(tk.Frame):
         imagen_label.pack(pady=5)
 
         descripcion = tk.Label(frame_derecho,
-                               text="Contáctanos por WhatsApp al +506 8432-7296",
+                               text="Contáctanos por WhatsApp al +xxx xxxx - xxxxxx " \
+                               "para pedidos y consultas.",
                                font=("Arial", 16), bg="#477296", fg="white")
         descripcion.pack(pady=10)
 
