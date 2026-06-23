@@ -1,12 +1,8 @@
 ######################################################################################################################
 # Nombre del programa: PROYECTO CARNICERIA.PY
-# Número del grupo de trabajo: 2 - Snake Coders
-# Nombres de los programadores:
-# Daniel Cordero Porras
-# Marcos Vargas Hernandez
-# Angelo Bermudez Ayales
-# Fecha de elaboración del programa: XXXXX
-# Versión del Python: 3.13.1
+# Nombres del programador: [Marcos Vargas Hernández]
+# Fecha de elaboración del programa: 14-04-2025
+# Versión del Python: 3.13.2
 # Nombre del IDE donde se desarrolló el programa: Visual Studio Code
 ######################################################################################################################
 
