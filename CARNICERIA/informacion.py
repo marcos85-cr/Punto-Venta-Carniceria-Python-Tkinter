@@ -57,7 +57,7 @@ class Informacion(tk.Frame):
         descripcion.pack(pady=10)
 
         boton = tk.Button(frame_derecho, text="Abrir WhatsApp",
-                          command=lambda: webbrowser.open("https://api.whatsapp.com/send?phone=50684327296"),
+                          command=lambda: webbrowser.open("https://api.whatsapp.com/send?phone=XXXXX-XXXXXX"),  # Reemplaza XXXXX-XXXXXX con el número real
                           font=("Arial", 16, "bold"), bg="white", fg="black", relief="flat", highlightthickness=1, borderwidth=0, highlightbackground="#477296")
         boton.pack(pady=10)
 
